@@ -1,0 +1,36 @@
+*{
+    margin: 1pc 2px;
+    padding: 0;
+}
+h1{
+    background-color: #343F3E;
+    color: #DCEDFF;
+    text-align: center;
+}
+h2{
+    background-color: #505A5B;
+    color: #94B0DA;
+    border: #8F91A2 solid 5px;
+    text-align: center;
+}
+*{
+    margin: 15px 100px;
+    padding: 15px;
+}
+.uno{
+    background-color: #AFD2E9;
+    color: #7C5869;
+    text-align: end;
+    padding: 10px 5px 16px;
+    font-family: cursive;
+}
+.dos{
+    background-color: #685369;
+    color: #C6D8AF;
+}
+.tres{
+    background-color: #806443;
+    color: #352208;
+    border: #E1BB80 solid;
+
+}

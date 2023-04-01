@@ -1,0 +1,28 @@
+table{
+    width: 100%;
+    border: 1px solid black;
+}
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-family: 'Shantell Sans', cursive;
+}
+th{
+    background-color: burlywood;
+    padding: 10px; 
+    text-decoration: dashed overline underline #FFB703;
+}
+
+tr:nth-child(even){
+    background-color: #8ECAE6;
+}
+tr:nth-child(odd){
+    background-color: #FFB703;
+}
+caption{
+    font-size: 50px;
+    padding: 4px;
+    line-height: 90px;   
+    font-family: 'Tilt Warp', cursive;
+    color: black;
+}

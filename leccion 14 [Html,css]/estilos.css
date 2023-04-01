@@ -1,0 +1,12 @@
+h1{
+    color: white;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 200;
+}
+p{
+    color: rgb(143, 188, 139);
+    font-size: 130%;
+    position: relative;
+    background-image: url();
+}

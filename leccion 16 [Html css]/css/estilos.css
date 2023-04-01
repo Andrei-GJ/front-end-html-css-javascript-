@@ -1,0 +1,41 @@
+h1{
+    color: #606c38;
+    margin: auto;
+    width: fit-content;
+}
+p{
+    width: fit-content;
+    margin: 0.1px;
+}
+a:link {
+    color:#fb8500;
+    text-decoration: none;
+    width: fit-content;
+}
+a:visited {
+    color: #bc6c25;
+    text-decoration: none;
+    width: fit-content;
+}
+/*para cuando el mouse esta encima del link*/
+a:hover {
+    color: #fefae0;
+    width: fit-content;
+}
+a:active {
+    color: #dda15e;
+    width: fit-content;
+}
+
+div.testo{
+    text-decoration: overline underline #606c38;
+    width: fit-content;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    padding-left: 1650px;
+    margin-top: -5pc;
+}
+

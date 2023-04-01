@@ -1,0 +1,32 @@
+div.h1{
+    margin: auto;
+    width: fit-content;
+    background-color: #34A0A4;
+}
+div.p{
+    background-color: #34A0A4;
+    width: fit-content;
+    margin: auto;
+    
+}
+a:link, a:active{
+    display: block;
+    margin: auto;
+    text-align: center;
+    width: fit-content;
+    background-color: #1E6091;
+    padding: 10px;
+    text-decoration: none;
+    color: #76C893;
+}
+a:visited{
+    background-color: #1A759F;
+    color: #99D98C;
+
+}
+a:hover{
+    background-color: #168AAD;
+    color: #B5E48C;
+    text-decoration: dotted underline overline #D9ED92;
+    padding: 15px;
+}
